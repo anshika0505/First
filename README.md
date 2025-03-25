@@ -1,5 +1,5 @@
 # First
 This is my first Github repo.
-<br>
+<hr>
 -Anshika Aneja
 
